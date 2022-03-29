@@ -7,5 +7,5 @@ Número: 55400
 Email: jpl.dias@campus.fct.unl.pt
 
 # Informação sobre o trabalho  
-Repositório contendo a implementação do exercício de avaliação individual de APDC 2021/22.  
+Repositório contendo toda a informação acerca da submissão implementação e submissão do exercício de avaliação individual de APDC 2021/22.  
 
