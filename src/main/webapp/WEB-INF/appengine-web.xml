@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appengine-web-app
+	xmlns="http://appengine.google.com/ns/1.0">
+
+	<threadsafe>true</threadsafe>
+	<sessions-enabled>false</sessions-enabled>
+	<service>default</service>
+	<runtime>java8</runtime>
+
+	<system-properties>
+		<property name="java.util.logging.config.file"
+			value="WEB-INF/logging.properties" />
+	</system-properties>
+
+	<!-- Define the number of idle instances -->
+	<automatic-scaling>
+		<min-idle-instances>0</min-idle-instances>
+	</automatic-scaling>
+
+
+</appengine-web-app>
